@@ -43,3 +43,26 @@ In this project, we cover the following aspects:
 
    ```bash
    git clone https://github.com/yourusername/super-sales-store-forecasting.git
+
+## Usage
+
+1. Open the Power BI project file (.pbix) in Power BI Desktop.
+2. Navigate through the different pages and visuals to explore the data and insights.
+3. Use filters and slicers to interactively analyze specific aspects of the data.
+4. View the forecasted sales trends and adjust parameters as necessary.
+5. Export the dashboard as a PDF for sharing and presentation.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/my-feature`).
+6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
